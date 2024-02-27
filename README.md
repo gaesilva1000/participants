@@ -3,10 +3,10 @@
 CRUD simples de cadastro de usuarios. 
 
 # Metodo 
-GET
-POST
-UPDATE
-DELETE
+ -GET
+ -POST
+-UPDATE
+-DELETE
 
 ## Pré-requisitos
 
