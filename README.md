@@ -2,7 +2,7 @@
 
 CRUD simples de cadastro de usuarios. 
 
-#METODO 
+# Metodo 
 GET
 POST
 UPDATE
