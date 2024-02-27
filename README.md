@@ -20,3 +20,7 @@ CRUD simples de cadastro de usuarios.
 
 ```bash
 git clone https://github.com/seu-usuario/sua-aplicacao.git
+
+
+## WEB
+Rota  liberada http://localhost:4200/
